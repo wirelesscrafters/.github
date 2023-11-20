@@ -6,29 +6,28 @@
 <p align="center">
   <b>WirelessCrafters Device</b>
 </p>
-<details>
-  <summary><b>LITE ONE WiFi</b></summary>
-  <p>
-  
-- **Blink LED**
-  - [Source code](https://github.com/wirelesscrafters/Documents/blob/main/src/blinkLED/blinkLED.ino)
-  - [Document](https://github.com/wirelesscrafters/Documents/wiki/Control-LED-with-Arduino-IDE)
-- **Control RGB LED**
-  - [Source code](https://github.com/wirelesscrafters/Documents)
-  - [Document](https://github.com/wirelesscrafters/Documents)
-
+<details open>
+  <summary><b>LITE_ONE model</b></summary>
+  <br>
+  <p align="center">
+    <img width="200" src="/images/devices/lite_one/top.png" alt="lite_one_top" />
   </p>
-</details>
-<details>
-  <summary><b>LITE ONE LTE</b></summary>
+  <br>
   <p>
-  
-- **Blink LED**
-  - [Source code](https://github.com/wirelesscrafters/Documents/blob/main/src/blinkLED/blinkLED.ino)
-  - [Document](https://github.com/wirelesscrafters/Documents/wiki/Control-LED-with-Arduino-IDE)
-- **Control RGB LED**
-  - [Source code](https://github.com/wirelesscrafters/Documents)
-  - [Document](https://github.com/wirelesscrafters/Documents)
+    <table border="0">
+      <tr>
+          <td><b>Model</b></td>
+          <td><b>Details</b></td>
+      </tr>
+      <tr>
+          <td>WiFi</td>
+          <td> <a herf>https://github.com/wirelesscrafters/lite_one_wifi</a></td>
+      </tr>
+      <tr>
+          <td>LTE</td>
+          <td> <a herf>https://github.com/wirelesscrafters/lite_one_lte</a></td>
+      </tr>
+    </table>
 
   </p>
 </details>
