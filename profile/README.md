@@ -14,18 +14,18 @@
   </p>
   <br>
   <p>
-    <table border="0">
+    <table border="0" style="width: 100%">
       <tr>
           <td><b>Model</b></td>
           <td><b>Details</b></td>
       </tr>
       <tr>
           <td>WiFi</td>
-          <td> <a herf>https://github.com/wirelesscrafters/lite_one_wifi</a></td>
+          <td> <a href>https://github.com/wirelesscrafters/lite_one_wifi</a></td>
       </tr>
       <tr>
           <td>LTE</td>
-          <td> <a herf>https://github.com/wirelesscrafters/lite_one_lte</a></td>
+          <td> <a href>https://github.com/wirelesscrafters/lite_one_lte</a></td>
       </tr>
     </table>
 
