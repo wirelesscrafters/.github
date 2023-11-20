@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/wirelesscrafters/Documents/main/images/logo/wirelessCrafters_logo.png" alt="logo" />
+  <img width="500" src="/images/logo/wirelessCrafters_logo.png" alt="logo" />
 </p>
 <br>
 <p align="center">
