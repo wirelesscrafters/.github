@@ -7,7 +7,7 @@
   <b>WirelessCrafters Device</b>
 </p>
 <details open>
-  <summary><b>LITE_ONE model</b></summary>
+  <summary><b style="font-size: 18px;">LITEONE/LITEONE+ model</b></summary>
   <br>
   <p align="center">
     <img width="200" src="/images/devices/lite_one/top.png" alt="lite_one_top" />
